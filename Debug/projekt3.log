@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (projekt3.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  gra.cpp
+  main.cpp
+  Generowanie kodu...
+  projekt3.vcxproj -> C:\Users\mymik\Desktop\pwr sem4\projekt3\Debug\tic tac toe.exe
